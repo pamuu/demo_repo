@@ -1,1 +1,0 @@
-Thhelle file's full history is still there — you can always git log and see both the original change and the revert. Nothing is lost, just undone. Want to know what happens in edge cases, like if the file was deleted or renamed in the commit you're reverting?
